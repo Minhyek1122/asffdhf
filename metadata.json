@@ -1,0 +1,6 @@
+{
+  "name": "그림자 복도",
+  "description": "동양풍 오컬트 미련 일기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
