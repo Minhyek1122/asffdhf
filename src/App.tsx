@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { ScrollText, X } from 'lucide-react';
 import tokiwaPortrait from './assets/images/tokiwa_portrait_1780685614440.png';
 import shinraPortrait from './assets/images/shinra_portrait_1780685956069.png';
-import renPortrait from './assets/images/ren_portrait_1780729708449.png';
+import renPortrait from 'https://github.com/Minhyek1122/asffdhf/blob/main/src/assets/images/%EB%A0%8C_%EA%B8%B0%EB%B3%B8.png?raw=true';
 import mimiPortrait from './assets/images/mimi_portrait_1780688673717.png';
 import yukariPortrait from './assets/images/yukari_portrait_1780688807543.png';
 import hayatePortrait from './assets/images/hayate_portrait_1780688927880.png';
